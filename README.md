@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @disgruntledjedi
 - 👀 I’m interested in creative things. Writer. Photography. Visual World Building. 
-- 🌱 I’m currently learning Unreal Engine 5, AI Art, C++. 
+- 🌱 I’m currently learning Unreal Engine 5, Python 
 - 🐉 At this point, here to learn, will reach out to collaborate when I feel I can contribute great visuals and stories. 
 
 <!---
